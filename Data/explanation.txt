@@ -1,0 +1,2 @@
+The data comes from this:
+http://finance.google.com/finance/getprices?i=600&p=30d&f=d,o,h,l,c,v&df=cpct&q=AMD
